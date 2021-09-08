@@ -4,7 +4,7 @@
 среднее арифметическое их модулей, произведение и частное их деления.
 ---
 ## Скриншот среды разработки
-![Текст](https://github.com/Racozoid/Applied_Programming_First_lab/blob/main/screenshot.PNG)
+![Текст](https://github.com/Racozoid/Applied_Programming_First_lab/blob/main/screenshot.PNG "это скриншот")
 
 ---
 ## Как открыть?
